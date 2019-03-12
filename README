@@ -1,0 +1,8 @@
+My monte hall game is based on the "lets make a deal" game show where the monte hall problem was first introduced to me. 
+How the show works:
+* The game host show three doors.
+* Two doors are empty, one door has a price behind it.
+* The contestant gets to choose one of the doors.
+* The game host opens an empty door that is not the one the contestant chose.
+* The contestant then gets the choice to either switch door or stay on the one they first chose.
+* If the contestant has chosen the correct door in the end they win whatever is behind it.
